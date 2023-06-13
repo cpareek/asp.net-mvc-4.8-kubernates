@@ -1,0 +1,6 @@
+appName: myhelmapp
+
+
+image:
+  name: sdshmctspublicsbox.azurecr.io/aspnetapp
+  tag: v1
